@@ -1,3 +1,4 @@
+![information](https://user-images.githubusercontent.com/108685284/204118652-67dc26bb-4869-48de-9359-1a483a3fa0a4.png)
 # QR-CODE-GENERATOR
 
 import qrcode
